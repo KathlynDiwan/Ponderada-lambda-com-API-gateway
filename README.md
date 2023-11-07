@@ -22,8 +22,10 @@ A implementação REST refere-se a um estilo de arquitetura com práticas escal�
 
 Autenticação 
 
+A questão da autenticação sera feita de acordo com o token que terá uma 'respostya certa' e dessa forma voce deve inserir o nome correto de autenticacao. Caso, voce nao inserir o codigo correto aparecerá uma mensagem dizendo que ouve uma falha. 
+
 Utilização de DRY e classes
 
 Testes unitários realizados 
-Foi se reaolizado um teste com o intuito de conseguir testar a função lambda_handler com as alterações ajustes e incrementos que foi feito a aprtir do enunciado dessa ponderada. 
+Foi se realizado um teste com o intuito de conseguir testar a função lambda_handler com as alterações ajustes e incrementos que foi feito a aprtir do enunciado dessa ponderada. 
 (inserir imagem) 
